@@ -2,7 +2,7 @@
 A French - English Transformer based Neural Machine Translation Model
 
 # Overview
-The translation model is based upon the original Transformer architecture using and encoder and a decoder. The model is trained on the OpusBooks corpus available on HuggingFace.
+The translation model is based upon the original Transformer architecture using and encoder and a decoder. The model is trained on the OpusBooks corpus available on HuggingFace. This was an individual project, and thus I am the sole contributor.
 
 # Installtion Requirements - 
 Python 3.11
